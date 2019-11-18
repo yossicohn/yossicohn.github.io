@@ -1,0 +1,83 @@
+{
+    "basics": {
+      "name": "Yossi Cohn",
+      "email": "yossi.cohn@gmail.com",
+      "phone": "052-8313543",
+      "website": "yossicohn.github.io",
+      "label": "Tech Lead",
+      "summery": ""
+    },
+    "location": {
+      "city": "Sde Yaaqov",
+      "street": "Shachal 5",
+      "zipcode": "3333333",
+      "country": "Israel"
+    },
+    "company": {
+      "name": "Optimove",
+      "dates": "2015 - 2019",
+      "title": "Director of R&D"
+    },
+    "work": [
+      {
+        "company": "Hiredscore",
+        "position": "Tech Lead & Infrastructure Developer",
+        "website": "http://hiredscore.com",
+        "startDate": "2019-09-01",
+        "endDate": "current",
+        "summary": "Description...",
+        "highlights": []
+      },
+      {
+        "company": "Optimove",
+        "position": "Director Of R&D",
+        "website": "http://optimove.com",
+        "startDate": "2018-08-01",
+        "endDate": "2019-08-01",
+        "summary": "Managing SW teams, ranging from Transactional to Real-Time engagement infrastructure and Analytics, supporting different Engagement 3rd Parties (Emails/Facebook/push-notifications, etc.)",
+        "highlights": [
+          "Design and architecture features",
+          "Define Technologies and Processes",
+          "Define roadmaps and standardization",
+          "Lead the technical roadmap and technological roadmap",
+          "Lead the adoption of of.Net Core and Swagger",
+          "Lead the adoption of Docker and kubernetes both on our cloud and on-premise",
+          "Started the path for the decomposition of our huge monolith to micro-services"
+        ]
+      },
+      {
+        "company": "Optimove",
+        "position": "Senior Team Leader",
+        "website": "http://optimove.com",
+        "startDate": "2015-12-01",
+        "endDate": "2018-07-01",
+        "summary": "Leading full stack 7 personal SW team, developing with the top-notch technologies, creating the best products for our clients. Research and development executing the product vision. keep the synergy as high as possible, strive for improvement and always looking for the next best thing. Conducting research & POC to define the best solution to the different use cases and the needed SLA.",
+        "highlights": [
+          "Design and architecture features",
+          "Define Technologies and Processes",
+          "Define roadmaps and standardization",
+          "Lead the technical roadmap and technological roadmap",
+          "Lead the adoption of of.Net Core and Swagger",
+          "Lead the adoption of Docker and kubernetes both on our cloud and on-premise",
+          "Started the path for the decomposition of our huge monolith to micro-services"
+        ]
+      },
+      {
+        "company": "Optimove",
+        "position": "Senior Team Leader",
+        "website": "http://optimove.com",
+        "startDate": "2015-12-01",
+        "endDate": "2018-07-01",
+        "summary": "",
+        "highlights": [
+          "Design and architecture features",
+          "Define Technologies and Processes",
+          "Define roadmaps and standardization",
+          "Lead the technical roadmap and technological roadmap",
+          "Lead the adoption of of.Net Core and Swagger",
+          "Lead the adoption of Docker and kubernetes both on our cloud and on-premise",
+          "Started the path for the decomposition of our huge monolith to micro-services"
+        ]
+      }
+    ]
+  }
