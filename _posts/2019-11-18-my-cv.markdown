@@ -5,6 +5,12 @@ date:   2019-11-18 17:02:32 +0200
 permalink: /cv
 categories: CV
 ---
+[Home](/)
+
+
+My resume conforms to the **Json Resume** you can read all about it [here](https://jsonresume.org/).
+
+
 ```json
 {
   "basics": {
@@ -17,8 +23,8 @@ categories: CV
   },
   "location": {
     "city": "Sde Yaaqov",
-    "street": "Shachal 5",
-    "zipcode": "3333333",
+    "street": "Derech Shachal 5",
+    "zipcode": "3658600",
     "country": "Israel"
   },
   "profiles": [
@@ -95,7 +101,7 @@ categories: CV
     {
       "company": "Roboteam",
       "position": "Senior Team Leader",
-      "website": "http://roboteam.com",
+      "website": "http://robo-team.com",
       "startDate": "2012-12-01",
       "endDate": "2015-12-01",
       "summary": "Leading the SW team, tasks, focal point, architecture, building a new product of 
@@ -110,7 +116,92 @@ categories: CV
         " Integrating with sensors (IP Cameras, Wave Relay, and others)",
         " Partnership with consultants and partners, client's simulations and interaction"
       ]
-    }
-  ]
+    },
+    {
+      "company": "Hexagon Metrology",
+      "position": "Senior Software Engineer",
+      "website": "https://www.hexagonmi.com/",
+      "startDate": "2011-01-01",
+      "endDate": "2012-12-01",
+      "summary": "Developing 3D Application Modules(Windows)",
+      "highlights": [
+        "Lead design SOA C# .NET infrastructure replacing existing C++
+        infrastructure using CLI and WCF",
+        "Cross-Section Unification algorithm – unifying two 3D measurements of the car taken from different angles",
+        "Moving to Perforce CM",
+      ]
+    },
+    {
+      "company": "ODF Optronics",
+      "position": "Senior Software Engineer",
+      "website": "https://odf.com",
+      "startDate": "2009-03-01",
+      "endDate": "2010-11-01",
+      "summary": "Developing Robot Control Unit Application(Windows)",
+      "highlights": [
+        "Developing Robot Control Unit (C++/MFC/Win32 API)",
+        "DirectX (DirectShow) for Video/Audio Processing",
+        "RS232 Communication, Serial Comm",
+        "Video Processing(FFMPEG, IPP)"
+      ]
+    },
+    {
+      "company": "Eastman Kodak",
+      "position": "Team Leader",
+      "website": "https://kodak.com",
+      "startDate": "2006-04-01",
+      "endDate": "2007-10-01",
+      "summary": "Rip Team- Team Leader",
+      "highlights": [
+        "Leading 4 personal team in developing the RIP infrastructures and features",
+        "Managing team, cross teams and 3rd party projects",
+        "Enhance C++ infrastructure to support future technology",
+        "Collaborate with 3rd parties in creation of the next top of the art digital printers"
+      ]
+    },
+    {
+      "company": "Creo",
+      "position": "Senior Software Engineer",
+      "website": "https://creo.com",
+      "startDate": "2000-14-01",
+      "endDate": "2006-04-01",
+      "summary": "RIP Team Infrastructures",
+      "highlights": [
+        "Create RIP (raster interface process) infrastructure based over C and C++",
+        "Enhance the support for the VPS and VIPP Formats",
+        "Add support for a 7-dimension Color schema (CMYK + P1-3)",
+        "Adobe PostScript Interpreter Libraries (c libraries for the graphics engine)"
+      ]
+    },
+  ],
+  "education": [{
+    "institution": "The Hebrew University of Jerusalem",
+    "area": "Mathematics & Computer Science",
+    "studyType": "Bachelor",
+    "startDate": "1997-08-01",
+    "endDate": "2001-03-01",
+    "courses": [
+    ]
+  }],
+  "awards": [{
+    "title": "Aikido Shodan",
+    "date": "2017-01-01",
+    "awarder": "AIKIKAI INTERNATIONAL, INC",
+    "summary": ""
+  }],
+   "languages": [{
+    "language": "English",
+    "fluency": "fluent"
+  },
+  {
+    "language": "Spanish",
+    "fluency": "advanced"
+  }],
+  "interests": [{
+    "name": "Aikido",
+    "keywords": [
+      "Budo"
+    ]
+  }],
 }
 ```
