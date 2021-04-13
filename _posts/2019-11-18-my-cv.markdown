@@ -51,14 +51,14 @@ My resume conforms to the **Json Resume** you can read all about it [here](https
       "website": "http://hiredscore.com",
       "startDate": "2019-09-01",
       "endDate": "current",
-      "summary": "Description...",
+      "summary": "Design and Implement Infrastructure. Manage Cloud Resources, Master Back End Guild promote Cloud Native tech into our stack",
       "highlights": [
        "Design and create go lang service integrated with Elasticsearch for typeahead",
        "Design and implement logging infrastructure using Fluentbit as side-cars on ECS and Kinesis Firehose and Managed ELK",
        "Designe API service with Cognito as IDP (OAuth2/OIDC) and REST API Gateway",
        "Design and implement in colaboration an API service using FastAPI (OpenAPI 3.0)"
-       "Guild Master - Initiate the Open Telemetry SDK (Python) adoption im to Hiredscore stack",
-       "Initiate and build Kubernetes Clusters(Grafana Organization service, CD flow, Kinako, Tekton)",
+       "Back End Guild Master - Initiate the Open Telemetry SDK (Python) adoption im to Hiredscore stack",
+       "Initiate and build Kubernetes Clusters(Grafana Organization service, CD flow, Kaniko, Tekton, Kong Ingress Controller)",
        "Build Celery Services and Pipeline"
       ]
     },
