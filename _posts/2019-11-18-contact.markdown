@@ -31,6 +31,10 @@ categories: Contact
       "network": "Linkedin",
       "username": "yossicohn",
       "url": "http://linkedin.com/yossicohn"
+    },
+    {
+      "network": "Medium",
+      "username": "@yossicohn",
     }
   ]
 }
