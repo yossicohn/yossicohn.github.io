@@ -58,8 +58,9 @@ My resume conforms to the **Json Resume** you can read all about it [here](https
        "Designe API service with Cognito as IDP (OAuth2/OIDC) and REST API Gateway",
        "Design and implement in colaboration an API service using FastAPI (OpenAPI 3.0)"
        "Back End Guild Master - Initiate the Open Telemetry SDK (Python) adoption im to Hiredscore stack",
+       "Integrate Kaniko and Tekton",
        "Initiate and build Kubernetes Clusters(Grafana Organization service, CD flow, Kaniko, Tekton, Kong Ingress Controller)",
-       "Build Celery Services and Pipeline"
+       "Rearchitect teh Data Pipeline flow with Celery Topic Rouiting",
       ]
     },
     {
