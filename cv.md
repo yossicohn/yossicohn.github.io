@@ -37,12 +37,16 @@ permalink: /cv
       "network": "Linkedin",
       "username": "yossicohn",
       "url": "http://linkedin.com/yossicohn"
+    },
+    {
+      "network": "Medium",
+      "username": "@yossicohn",
     }
   ],
   "work": [
     {
       "company": "Hiredscore",
-      "position": "Tech Lead, Infrastructure Developer & DevOps",
+      "position": "Architect, Tech Lead, Infrastructure Developer & DevOps",
       "website": "http://hiredscore.com",
       "startDate": "2019-09-01",
       "endDate": "current",
@@ -51,11 +55,15 @@ permalink: /cv
        "Design and create Golang service integrated with Elasticsearch for typeahead",
        "Design and implement logging infrastructure using Fluentbit as side-cars on ECS and Kinesis Firehose and Managed ELK",
        "Designe API service with Cognito as IDP (OAuth2/OIDC) and REST API Gateway",
-       "Design and implement in colaboration an API service using FastAPI (OpenAPI 3.0)"
-       "Back End Guild Master - Initiate the Open Telemetry SDK (Python) adoption into Hiredscore stack",
+       "Design and implement in colaboration an API service using FastAPI (OpenAPI 3.0)",
+       "Back End Guild Master",
+       "Create OpenTelemetry SDK (Python) Internal stack, and push forward R&D adoption",
        "Integrate Kong, Kaniko and Tekton to our k8s stack",
        "Initiate and build Kubernetes Clusters(Grafana Organization service, CD flow, Kaniko, Tekton, Kong Ingress Controller)",
-       "Rearchitect the Data Pipeline flow with Celery Topic Routing"
+       "Lead k8s stack and infrastructure",
+       "Rearchitect the Data Pipeline flow with Celery Topic Routing",
+       "Integrate Percona MongoDB Kubernetes Clusters infrastructure",
+       "Architect the Engeagement infrastructure"
       ]
     },
     {
