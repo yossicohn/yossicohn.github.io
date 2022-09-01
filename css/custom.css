@@ -1,0 +1,10 @@
+/* Override this file to customise the theme's CSS for your site */
+
+.page__text {
+    color: var(--yellow-text);
+}
+
+
+.page_articles_links {
+    color: var(--red-links);
+}
