@@ -62,7 +62,7 @@ headless: true
        "Lead k8s stack and infrastructure",
        "Rearchitect the Data Pipeline flow with Celery Topic Routing",
        "Integrate Percona MongoDB Kubernetes Clusters infrastructure",
-       "Architect the Engeagement infrastructure"
+       "Architect the Engagement infrastructure"
       ]
     },
     {
