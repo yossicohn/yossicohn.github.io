@@ -1,0 +1,16 @@
+# pack-refs with: peeled fully-peeled sorted 
+75745472a60e04a17a6aefafe4b3d922f4c6b16c refs/remotes/origin/dependabot/npm_and_yarn/autoprefixer-10.4.8
+17e1dd1aa1462067da6ca761d3371e995d0318ae refs/remotes/origin/dependabot/npm_and_yarn/cssnano-5.1.13
+bb7b187e41c9b82dca9a861f2a773e7b20a24b20 refs/remotes/origin/dependabot/npm_and_yarn/postcss-8.4.16
+b05b592014f3c17045f04e7c46fcbe519367b89d refs/remotes/origin/dependabot/npm_and_yarn/tailwindcss-3.1.8
+5e62345fc6e97b5e0a95e0ba9b9d126b247b5dbf refs/remotes/origin/gh-pages
+023fd0a8d046440d1c6058769e5c8d41b80d3fbf refs/remotes/origin/main
+f6a6d44befdbee40d625de0cb8f47fc436e07cf0 refs/tags/v0.0.1
+^767628a3dc47cb4b614cba1dcc75e514573afeee
+ad3f678adb4958177b0ae7906aa934a0e5b2051b refs/tags/v0.0.2
+^f3f913425f3a1155efeb3f5c78387e7b6a2c7ad8
+d045f82184c947a53819c6e9a8a5587bf8f14cc5 refs/tags/v0.0.3
+cbb7bf5cde9e87d1052c65f8b88b4b47c6d77ed7 refs/tags/v0.0.4
+86542e7b760e103989a1fac15f4720a6afa28a74 refs/tags/v0.0.5
+872ecd382bf8af05a9dc279013ce68fc4c8dad94 refs/tags/v0.0.6
+bb1882334db5f337d973bdb1fe0bee8ef75d92f9 refs/tags/v0.0.7
