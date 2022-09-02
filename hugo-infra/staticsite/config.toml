@@ -54,6 +54,11 @@ icon = "fab fa-medium"
 title = "Medium"
 url = "https://medium.com/@yossicohn"
 
+[[params.socialLinks]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "http://twitter.com/yossikuu"
+
 
 [menu]
 

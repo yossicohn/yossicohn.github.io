@@ -11,7 +11,7 @@ headless: true
   "basics": {
     "name": "Yossi Cohn",
     "email": "yossi.cohn@gmail.com",
-    "phone": "052-8313543",
+    "phone": "+972-52-8313543",
     "website": "yossicohn.github.io",
     "label": "Tech Lead & Infrastructure Developer",
     "summery": ""
