@@ -27,6 +27,6 @@ Major code contributors and carry out project’s execution from planning to del
 
 
 ---
-As a Software professional, I see myself a focal point and technical leader as well as team player with great social skills, always keen to get the best solution to our internal or external customers and will always keep on learning and sharpen my skill and knowledge, practice what I preach as well as always trying to get a better version of myself. 
+As a Software professional, I see myself as a focal point and technical leader as well as team player with great social skills, always keen to get the best solution to our internal or external customers and will always keep on learning and sharpen my skill and knowledge, practice what I preach as well as always trying to get a better version of myself. 
 
 Leading by example.
