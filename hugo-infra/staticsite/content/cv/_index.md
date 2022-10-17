@@ -61,8 +61,7 @@ headless: true
        "Initiate and build Kubernetes Clusters(Grafana Organization service, CD flow, Kaniko, Tekton, Kong Ingress Controller)",
        "Lead k8s stack and infrastructure",
        "Rearchitect the Data Pipeline flow with Celery Topic Routing",
-       "Integrate Percona MongoDB Kubernetes Clusters infrastructure",
-       "Architect the Engagement infrastructure"
+       "Integrate Percona MongoDB Kubernetes Clusters infrastructure"
       ]
     },
     {
