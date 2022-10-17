@@ -12,8 +12,8 @@ headless: true
     "name": "Yossi Cohn",
     "email": "yossi.cohn@gmail.com",
     "phone": "+972-52-8313543",
-    "website": "yossicohn.github.io",
-    "label": "Tech Lead & Infrastructure Developer",
+    "website": "https://yossicohn.github.io/",
+    "label": "Architect, Tech Lead & Infrastructure Developer",
     "summery": ""
   },
   "location": {
@@ -25,7 +25,7 @@ headless: true
   "profiles": [
     {
       "network": "Twitter",
-      "username": "yossikuu",
+      "username": "yossiku",
       "url": "http://twitter.com/yossikuu"
     },
     {

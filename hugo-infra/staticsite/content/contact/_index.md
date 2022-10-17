@@ -12,13 +12,13 @@ headless: true
     "name": "Yossi Cohn",
     "email": "yossi.cohn@gmail.com",
     "phone": "052-8313543",
-    "website": "yossicohn.github.io"
+    "website": "https://yossicohn.github.io/"
   },
   "profiles": [
     {
       "network": "Twitter",
-      "username": "yossikuu",
-      "url": "http://twitter.com/yossikuu"
+      "username": "yossiku",
+      "url": "http://twitter.com/yossiku"
     },
     {
       "network": "GitHub",
